@@ -38,6 +38,7 @@ Python
     filter call_regexp_common C
     filter remove_inline #.*$
     extension py
+    
 make
     filter remove_matches ^\s*#
     filter remove_inline #.*$
