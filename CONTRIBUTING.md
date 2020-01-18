@@ -20,8 +20,6 @@ Try to give your issue a title that is succinct and specific. The devs will rena
 
 Caffe welcomes all contributions.
 
-See the [contributing guide](http://caffe.berkeleyvision.org/development.html) for details.
-
 Briefly: read commit by commit, a PR should tell a clean, compelling story of _one_ improvement to Caffe. In particular:
 
 * A PR should do one clear thing that obviously improves Caffe, and nothing more. Making many smaller PRs is better than making one large PR; review effort is superlinear in the amount of code involved.
